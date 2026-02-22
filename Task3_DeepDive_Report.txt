@@ -1,0 +1,21 @@
+Task 3: Deep-Dive Analysis Report
+
+1. Core KPIs Defined:
+
+Total Sales: $2,261,536.78 (Sum of all revenue).
+
+Total Orders: 4,922 (Unique count of Order IDs).
+
+Avg Order Value (AOV): $459.48 (Total Sales / Total Orders).
+
+Unique Customers: 793 (Total distinct customers).
+
+2. Deep-Dive Methodology: I performed a Segmentation Analysis using the RFM (Recency, Frequency, Monetary) Model. This helps in categorizing customers based on how recently they shopped, how often they shop, and how much they spend.
+
+3. Key Insights:
+
+Best Customers: 35 customers are in the top tier and should be targeted with loyalty rewards.
+
+Lost Customers: 158 customers haven't purchased in a long time and need re-engagement strategies.
+
+Standard Customers: The majority (330) are regular buyers.
